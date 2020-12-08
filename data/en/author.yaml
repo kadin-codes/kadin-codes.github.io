@@ -1,0 +1,11 @@
+name: "Kadin Van Valin"
+# image: "/images/author/kadin.jpg"
+
+greeting: "Hi, I am"
+contactInfo:
+  email: "kadinvanvalin@gmail.com"
+
+summary:
+  - I am a developer
+  - I am a polyglot
+  - I love functional programming
