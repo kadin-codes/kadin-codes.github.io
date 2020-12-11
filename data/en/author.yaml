@@ -6,5 +6,7 @@ contactInfo:
   email: "kadinvanvalin@gmail.com"
 
 summary:
-  - I am a developer
   - "#titanic { float: none; }"
+  - ".universe { border: none; }"
+  - ".stayathome { visibility: hidden; }"
+  - ".wife { right: 100%; margin: 0; }"
