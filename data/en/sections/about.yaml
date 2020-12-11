@@ -13,7 +13,7 @@ company:
 
 resume: "files/resume.pdf"
 
-summary: 'Polyglot software engineer & consultant with experience delivering quality solutions at every layer of a technical stack, and at every phase of a product’s lifecycle, whether it be legacy code systems or greenfield development.'
+summary: 'I do the 1s and 0s'
 
 socialLinks:
 - name: Email
@@ -32,21 +32,21 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: Email
   percentage: 85
   color: blue
-- name: Team Work
-  percentage: 90
+- name: Excel
+  percentage: 5
   color: yellow
-- name: Communication
-  percentage: 85
-  color: pink
-- name: Mentorship
-  percentage: 85
-  color: green
-- name: Fast Learner
-  percentage: 85
-  color: sky
-- name: Problem Solving
-  percentage: 85
-  color: orange
+# - name: Communication
+#   percentage: 85
+#   color: pink
+# - name: Mentorship
+#   percentage: 85
+#   color: green
+# - name: Fast Learner
+#   percentage: 85
+#   color: sky
+# - name: Problem Solving
+#   percentage: 85
+#   color: orange
